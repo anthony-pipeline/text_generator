@@ -1,5 +1,6 @@
-##Generate sentences based on trigrams \n
-#Objectives
+## Generate sentences based on trigrams
+
+# Objectives
 The algorithm should be extended so that it can use not only bigrams but also trigrams. Tails should stay the same length as before since we are still aiming to predict the next word in the chain.
 
 This change implies the following tasks:
